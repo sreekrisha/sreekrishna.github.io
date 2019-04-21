@@ -1,0 +1,10 @@
+- name: About
+  link: /About/
+- name: Poojas
+  link: /Poojas/
+- name: Events
+  link: /Events/
+- name: Contributions
+  link: /Contributions/
+- name: Gallery
+  link: /Gallery/
